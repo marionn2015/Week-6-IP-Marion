@@ -23,9 +23,15 @@ Feature engineering
 Cross validation
 
 # Setup/Installation Requirements
+
 Google colab/jupyter notebook
+
 Python basics
+
 Python libraries
+
 Github
+
 # Contact
+
 ndungumarion@gmail.com
